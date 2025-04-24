@@ -1,1 +1,1 @@
-# JS-PROJECT
+# ai_image_generator
